@@ -206,9 +206,7 @@ Useful resources and dependencies that are used in 3D Portfolio.
 - [typescript](https://www.npmjs.com/package/typescript): ^5.3.3
 - [vite](https://www.npmjs.com/package/vite): ^5.0.12
 
-## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
@@ -258,10 +256,10 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/3d-portfolio&Timeline">
+<a href="https://star-history.com/#Ankit-Sharma1011/3d-portfolio&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Ankit-Sharma1011/3d-portfolio&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Ankit-Sharma1011/3d-portfolio&type=Timeline" />
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/3d-portfolio&type=Timeline" />
 </picture>
 </a>
