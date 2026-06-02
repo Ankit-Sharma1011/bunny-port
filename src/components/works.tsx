@@ -1,4 +1,4 @@
-import { Tilt } from "react-tilt";
+
 import { motion } from "framer-motion";
 
 import { github, preview } from "../assets";
@@ -23,7 +23,7 @@ const ProjectCard = ({
   live_site_link,
 }: ProjectCardProps) => (
   <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
-    <Tilt
+    <div
       options={{
         max: 45,
         scale: 1,
@@ -84,7 +84,7 @@ const ProjectCard = ({
           </p>
         ))}
       </div>
-    </Tilt>
+    </div>
   </motion.div>
 );
 
